@@ -1,6 +1,6 @@
-# Dashboard Pedidos en Línea
+# Dashboard Pedidos en Línea (Front-end)
 
-Dashboard de Administrador para Manejo de Pedidos en Línea y Visualizacion de Graficos
+Dashboard de Administrador para Manejo de Pedidos en Línea y Visualizacion de Graficos. 
 
 ## Tecnologías y Herramientas
 
